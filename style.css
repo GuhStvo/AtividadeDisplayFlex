@@ -14,7 +14,7 @@ hr {
     margin: 20px 0;
 }
 
-nav h2, div {
+nav h2, nav div {
     margin-bottom: 15px;
 }
 
@@ -46,6 +46,7 @@ main {
     flex-wrap: wrap;
 
     justify-content: space-between;
+    gap: 15px;
 }
 
 
